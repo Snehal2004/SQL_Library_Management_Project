@@ -55,4 +55,28 @@ The project includes tables for:
 
 ## 🎯 Career Goal
 
-My goal is to build strong SQL and data analytics skills through hands-on projects, solve business problems using data, and develop a portfolio for Data
+My goal is to build strong SQL and data analytics skills through hands-on projects, solve business problems using data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# YOLO Achievement Practice
+
+This repository is created to practice GitHub Pull Requests.
+
+I am learning GitHub and Data Analytics.
