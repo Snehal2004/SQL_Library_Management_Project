@@ -58,7 +58,13 @@ The project includes tables for:
 My goal is to build strong SQL and data analytics skills through hands-on projects, solve business problems using data.
 
 
+## 🚀 Key Learnings
 
+- Learned SQL joins and subqueries.
+- Practiced aggregate functions.
+- Used Common Table Expressions (CTEs).
+- Applied window functions.
+- Improved database management skills.
 
 
 
